@@ -104,9 +104,9 @@ h1  {
 }
 
 .secondBackground {
-   background-size:70%
-}
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    min-height: 100%;
 
-.backgroundTwo {
-    background-size: contain;
 }
